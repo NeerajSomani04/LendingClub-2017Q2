@@ -1,0 +1,7 @@
+LoanStats.csv files:
+
+1) Removed 1st line. As that is just a note about file from source.
+2) removed 105455, 105456 rows. because its contains only below listed lines. We need to see where we can utilize below information or not.
+Total amount funded in policy code 1: 1538432075
+Total amount funded in policy code 2: 608903141
+3) Removed all columns with full nan values. List will be in EDA.ipynb.
