@@ -1,4 +1,4 @@
-# LendingClub-2017Q2
+# LendingClub_2017Q2
 Python Machine Learning Project on Lending Club Dataset for 2017-Q2. 
 
 Below are some of the Questions that we are planning to analyze:
