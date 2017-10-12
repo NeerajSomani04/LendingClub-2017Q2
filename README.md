@@ -6,7 +6,7 @@ Below are some of the Questions that we are planning to analyze:
 Lets also decide priority for below:
 
 1) Predicting who gets approve / decline for a Loan. 
-2) Predicting default loan_amnt.
+2) Predicting loan_amnt based on available data.
 3) Predict int_rate for loan.
 
 For below 2 points, we need to do feature selection differently (different approach). This is also probably after loan approved. So, need features that are related to after loan approaved.  
